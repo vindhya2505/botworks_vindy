@@ -1,0 +1,29 @@
+{
+  "name": "botworks_vindy",
+  "version": "1.0.0",
+  "description": "Build a bot in node.js on MBF",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vindhya2505/botworks_vindy.git"
+  },
+  "keywords": [
+    "bot",
+    "node.js",
+    "microsoft",
+    "bot"
+  ],
+  "author": "vindy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vindhya2505/botworks_vindy/issues"
+  },
+  "homepage": "https://github.com/vindhya2505/botworks_vindy#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.1",
+    "restify": "^4.3.0"
+  }
+}
